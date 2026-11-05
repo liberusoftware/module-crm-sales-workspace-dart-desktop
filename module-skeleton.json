@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sales-workspace-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-sales-workspace",
+  "presentation": "dart-desktop",
+  "package": "module_crm_sales_workspace_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/sales-workspace.md",
+  "presentationPlan": "projects/crm/features/sales-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
